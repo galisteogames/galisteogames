@@ -1,9 +1,8 @@
-### Hi Guys
+### Hi guys, I'm Galisteo, a tech fan, passionate about retrogames, focusing on Raspberry PI 3 and PI4, micro boards like TX9 / TX3 mini, T95 max+ and Odroid N2+.
 
 <div align="center">
   <a href="https://linktr.ee/galisteo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galisteogames&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galisteogames&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   </div>
