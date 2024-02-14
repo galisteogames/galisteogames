@@ -1,4 +1,4 @@
-### Hi guys, I'm Galisteo, a tech fan, passionate about retrogames, focusing on Raspberry PI 3 and PI4, micro boards like TX9 / TX3 mini, T95 max+ and Odroid N2+.
+### Hi, I'm Galisteo, a tech fan, retrogamer, focusing on Raspberry PI3 and PI4, micro boards like TX9/TX3 mini, T95 Max+, PowKiddy X55 and Odroid N2+.
 
 <div align="center">
   <a href="https://linktr.ee/galisteo">
