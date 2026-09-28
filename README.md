@@ -1,6 +1,7 @@
 ### Hi, I'm Galisteo, a tech fan, retrogamer, focusing on Raspberry Pi3, Pi4, Pi5, micro boards like TX9/TX3 mini (S905W), T95 Max+ (S905X), GT King (S922X) PowKiddy X55 (RK3566), Odroid N2+ (S922X) and MiSTer FPGA.
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galisteogames&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <a href="https://linktr.ee/galisteogames">
 </div>
   
